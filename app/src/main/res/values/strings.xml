@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Starbuzz</string>
+    <string name="starbuzz_logo">Starbuzz logo</string>
+    <string name="pic2">Buyer</string>
+    <string name="shop1">Улица Пушкина, дом Колотушкина</string>
+    <string name="shop2">Улица Гагарина, дом 9</string>
+    <string name="mag">magazine</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Your favorite drinks:</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+    <string-array name="foodOptions">
+        <item>Burger</item>
+        <item>Fri</item>
+        <item>Shaverma</item>
+    </string-array>
+</resources>
