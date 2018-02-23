@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Food Shop</string>
+    <string name="foodshop_logo">Food shop logo</string>
+    <string name="shop1">Улица Пушкина, дом 14</string>
+    <string name="shop2">Улица Гагарина, дом 9</string>
+    <string name="mag">magazine</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Your favorite purchases:</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+</resources>
